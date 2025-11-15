@@ -1,0 +1,121 @@
+body {
+  background: #f4f6f9 !important;
+font-family: $typography-font-family;
+color: #333;
+}
+
+/* ===== TITULOS GENERALES ===== */
+.page-title {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: $primary;
+  margin-bottom: 24px;
+}
+
+/* ===== TARJETAS ===== */
+.q-card {
+  border-radius: 14px !important;
+  box-shadow: 0 2px 8px rgba(0,0,0,.05) !important;
+  transition: all .2s ease;
+}
+
+.q-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 14px rgba(0,0,0,.12) !important;
+}
+
+/* ===== BOTONES ===== */
+.q-btn {
+  font-weight: 600 !important;
+  border-radius: 10px !important;
+  padding: 8px 20px !important;
+  text-transform: none !important;
+  letter-spacing: .3px;
+}
+
+.q-btn--outline {
+  border-width: 2px !important;
+}
+
+/* ===== FORMULARIOS ===== */
+.q-field {
+  border-radius: 12px !important;
+}
+
+.q-field__control {
+  background: #fff;
+  border-radius: 12px !important;
+  box-shadow: 0 1px 4px rgba(0,0,0,.05);
+  transition: .2s ease;
+}
+
+.q-field__control:hover {
+  box-shadow: 0 2px 8px rgba(0,0,0,.08);
+}
+
+/* ===== TABLAS ===== */
+.q-table {
+  border-radius: 14px !important;
+  overflow: hidden;
+  background: #fff !important;
+}
+
+.q-table thead th {
+  background: $primary !important;
+  color: white !important;
+  font-weight: 600 !important;
+  font-size: .95rem;
+}
+
+.q-table tbody tr:hover {
+  background: #E3F2FD !important;
+  cursor: pointer;
+}
+
+.q-table__bottom {
+  border-top: 2px solid #eee;
+}
+
+/* ===== MODALES (Dialog) ===== */
+.q-dialog__inner > div {
+  border-radius: 16px !important;
+  padding: 25px !important;
+}
+
+/* ===== SIDEBAR ===== */
+.q-drawer {
+  background: white !important;
+  border-right: 1px solid #e0e0e0 !important;
+}
+
+.q-item {
+  border-radius: 10px !important;
+}
+
+.q-item:hover {
+  background: #E3F2FD !important;
+}
+
+.q-item--active {
+  background: $primary !important;
+  color: white !important;
+}
+
+/* ===== TRANSICIONES GLOBALES ===== */
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity .25s ease;
+}
+
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
+}
+
+/* ===== TOOLTIPS ===== */
+.q-tooltip {
+  border-radius: 8px !important;
+  background: #263238 !important;
+  font-size: .85rem;
+  padding: 6px 10px;
+}

@@ -1,0 +1,194 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "GU-AV",
+      "properties": { "name": "Alta Verapaz" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -89.92, 15.56 ], [ -90.15, 15.45 ], [ -90.30, 15.56 ], [ -90.48, 15.52 ], [ -90.62, 15.67 ], [ -90.40, 15.78 ], [ -90.18, 15.77 ], [ -89.92, 15.56 ]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GU-BV",
+      "properties": { "name": "Baja Verapaz" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -90.62, 15.30 ], [ -90.48, 15.10 ], [ -90.30, 15.18 ], [ -90.20, 15.40 ], [ -90.38, 15.45 ], [ -90.62, 15.30 ]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GU-CM",
+      "properties": { "name": "Chimaltenango" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -90.96, 14.55 ], [ -91.10, 14.46 ], [ -90.90, 14.32 ], [ -90.72, 14.40 ], [ -90.80, 14.55 ], [ -90.96, 14.55 ]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GU-CQ",
+      "properties": { "name": "Chiquimula" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -89.35, 14.90 ], [ -89.65, 14.81 ], [ -89.60, 14.60 ], [ -89.28, 14.52 ], [ -89.10, 14.60 ], [ -89.20, 14.75 ], [ -89.35, 14.90 ]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GU-PR",
+      "properties": { "name": "El Progreso" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -90.15, 14.95 ], [ -90.38, 14.80 ], [ -90.28, 14.66 ], [ -90.10, 14.73 ], [ -89.98, 14.85 ], [ -90.15, 14.95 ]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GU-ES",
+      "properties": { "name": "Escuintla" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -91.08, 14.28 ], [ -90.92, 14.08 ], [ -90.52, 14.21 ], [ -90.60, 14.44 ], [ -90.82, 14.45 ], [ -91.08, 14.28 ]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GU-GU",
+      "properties": { "name": "Guatemala" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -90.64, 14.83 ], [ -90.55, 14.72 ], [ -90.38, 14.80 ], [ -90.52, 14.95 ], [ -90.64, 14.83 ]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GU-HU",
+      "properties": { "name": "Huehuetenango" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -91.75, 15.70 ], [ -91.48, 15.60 ], [ -91.32, 15.35 ], [ -91.60, 15.20 ], [ -91.85, 15.35 ], [ -91.75, 15.70 ]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GU-IZ",
+      "properties": { "name": "Izabal" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -88.95, 15.50 ], [ -89.28, 15.45 ], [ -89.42, 15.32 ], [ -89.18, 15.15 ], [ -88.90, 15.30 ], [ -88.95, 15.50 ]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GU-JA",
+      "properties": { "name": "Jalapa" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -89.95, 14.68 ], [ -90.10, 14.55 ], [ -89.88, 14.40 ], [ -89.75, 14.55 ], [ -89.95, 14.68 ]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GU-JU",
+      "properties": { "name": "Jutiapa" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -89.85, 14.20 ], [ -90.05, 14.05 ], [ -89.65, 13.95 ], [ -89.50, 14.10 ], [ -89.70, 14.25 ], [ -89.85, 14.20 ]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GU-PE",
+      "properties": { "name": "Petén" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -90.20, 17.80 ], [ -90.60, 17.60 ], [ -90.90, 17.20 ], [ -90.50, 16.80 ], [ -90.00, 16.90 ], [ -89.75, 17.30 ], [ -90.20, 17.80 ]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GU-QZ",
+      "properties": { "name": "Quetzaltenango" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -91.80, 14.85 ], [ -91.55, 14.78 ], [ -91.35, 14.60 ], [ -91.55, 14.48 ], [ -91.80, 14.60 ], [ -91.80, 14.85 ]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GU-QC",
+      "properties": { "name": "Quiché" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -91.30, 15.50 ], [ -91.15, 15.20 ], [ -90.90, 15.20 ], [ -90.80, 15.50 ], [ -91.00, 15.65 ], [ -91.30, 15.50 ]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GU-SA",
+      "properties": { "name": "Sacatepéquez" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -90.80, 14.60 ], [ -90.95, 14.55 ], [ -90.85, 14.45 ], [ -90.70, 14.50 ], [ -90.80, 14.60 ]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GU-SM",
+      "properties": { "name": "San Marcos" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -92.20, 15.10 ], [ -91.85, 15.00 ], [ -91.55, 14.85 ], [ -91.72, 14.60 ], [ -92.10, 14.70 ], [ -92.20, 15.10 ]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GU-SR",
+      "properties": { "name": "Santa Rosa" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -90.50, 14.30 ], [ -90.72, 14.15 ], [ -90.50, 14.00 ], [ -90.25, 14.10 ], [ -90.30, 14.30 ], [ -90.50, 14.30 ]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GU-SO",
+      "properties": { "name": "Sololá" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -91.25, 14.80 ], [ -91.10, 14.60 ], [ -90.92, 14.75 ], [ -91.05, 14.90 ], [ -91.25, 14.80 ]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GU-SU",
+      "properties": { "name": "Suchitepéquez" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -91.50, 14.45 ], [ -91.25, 14.35 ], [ -91.00, 14.45 ], [ -91.15, 14.60 ], [ -91.40, 14.55 ], [ -91.50, 14.45 ]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GU-TO",
+      "properties": { "name": "Totonicapán" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -91.55, 14.90 ], [ -91.30, 14.85 ], [ -91.20, 14.70 ], [ -91.45, 14.60 ], [ -91.65, 14.75 ], [ -91.55, 14.90 ]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GU-ZA",
+      "properties": { "name": "Zacapa" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -89.80, 15.00 ], [ -90.00, 14.80 ], [ -89.80, 14.65 ], [ -89.55, 14.75 ], [ -89.60, 14.95 ], [ -89.80, 15.00 ]]]
+      }
+    }
+  ]
+}
