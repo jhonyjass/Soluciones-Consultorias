@@ -17,7 +17,7 @@ export const useUserStore = defineStore('user', {
   actions: {
     async login({ email, contrasena }) {
       try {
-        const { data } = await axios.post('https://localhost:7118/api/Auth/login', { email, contrasena })
+        const { data } = await axios.post('https://soluciones-consultoriasapi-production.up.railway.app/api/Auth/login', { email, contrasena })
 
         const token = data?.token || data?.result?.token
         const usuario = data?.usuario || data?.user || {}
